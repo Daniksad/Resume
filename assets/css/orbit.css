@@ -1,0 +1,29 @@
+header {
+  color: #fff;
+  background: #444;
+}
+
+a {
+  color: #000;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #000;
+}
+
+a:focus {
+  text-decoration: none;
+}
+
+.sidebar-wrapper {
+  background: #eee;
+  position: relative;
+  left: 0;
+  width: 300px;
+  color: #000;
+}
+
+.main-wrapper {
+  background: #fff;
+}
