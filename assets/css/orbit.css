@@ -1,6 +1,7 @@
 header {
   color: #fff;
   background: #444;
+  min-width: 610px;
 }
 
 a {
