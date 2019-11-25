@@ -8,6 +8,11 @@ a {
   color: #000;
 }
 
+.a_lang {
+  text-decoration: none;
+  color: #fff;
+}
+
 a:hover {
   text-decoration: none;
   color: #000;
